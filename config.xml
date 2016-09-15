@@ -1,5 +1,5 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.blairsutherand.svtt" version="1.0.0">
-  <name>SVTT</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.blairsutherand.svtt" version="1.0.1">
+  <name>Sun Valley Town Talk</name>
   <description>Sun Valley Town Talk</description>
   <author href="http://sunvalleytowntalk.com/" email="blairsuth@gmail.com">BlairSutherland</author>
   <content src="index.html"/>
