@@ -87,6 +87,7 @@
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
     
      <gap:splash src="splash.png" />
+     <splash src="splash.png"/>
   </platform>
   <platform name="wp8">
     <icon src="www/res/icon/wp8/ApplicationIcon.png" platform="wp8" width="99" height="99"/>
