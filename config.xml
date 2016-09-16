@@ -82,6 +82,11 @@
     <splash src="res/screen/ios/Default-Portrait.png" platform="ios" width="768" height="1024"/>
     <splash src="res/screen/ios/Default@2x.png" platform="ios" width="680" height="960"/>
     <splash src="res/screen/ios/Default.png" platform="ios" width="320" height="480"/>
+    <gap:splash src="res/screen/ios/Default.png" gap:platform="ios" width="320" height="480" />
+    <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
+    <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
+    
+     <gap:splash src="splash.png" />
   </platform>
   <platform name="wp8">
     <icon src="www/res/icon/wp8/ApplicationIcon.png" platform="wp8" width="99" height="99"/>
