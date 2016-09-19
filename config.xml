@@ -3,7 +3,7 @@
   <description>Sun Valley Town Talk</description>
   <author href="http://sunvalleytowntalk.com/" email="blairsuth@gmail.com">BlairSutherland</author>
   <content src="http://sunvalleytowntalk.com/mobile-app/" />
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="cli-6.3.0" />
 <preference name="orientation" value="portrait" /> 
 <preference name="SplashScreen" value="screen" /> 
   <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1"/>
