@@ -29,6 +29,7 @@
   
   
     <gap:plugin name="org.apache.cordova.splashscreen" />
+  <gap:plugin name="org.apache.cordova.inappbrowser" />
     
 
   <icon src="icon.png"/>
