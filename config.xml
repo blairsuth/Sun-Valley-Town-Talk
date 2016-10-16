@@ -126,7 +126,7 @@
      <gap:splash src="splash.png" />
      <splash src="splash.png"/>
 
-  <access origin="http://sunvalleytowntalk.com/*"/>
+  <access origin="*"/>
   <allow-intent href="http://*/*"/>
   <allow-intent href="https://*/*"/>
   <allow-intent href="tel:*"/>
