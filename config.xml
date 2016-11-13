@@ -132,6 +132,7 @@
      <splash src="splash.png"/>
 
   <access origin="*"/>
+  <allow-navigation href="http://sunvalleytowntalk.com/*" />
   <allow-intent href="http://*/*"/>
   <allow-intent href="https://*/*"/>
   <allow-intent href="tel:*"/>
