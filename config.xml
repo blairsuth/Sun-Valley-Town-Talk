@@ -3,9 +3,12 @@
   <description>Sun Valley Town Talk</description>
   <author href="http://sunvalleytowntalk.com/" email="blairsuth@gmail.com">BlairSutherland</author>
   <content src="index.html" />
-    <preference name="phonegap-version" value="cli-6.3.0" />
+    
 
-<preference name="SplashScreen" value="screen" /> 
+<preference name="SplashScreen" value="screen"/>
+<preference name="SplashScreenDelay" value="3000" />
+<preference name="orientation" value="portrait" />
+<preference name="DisallowOverscroll" value="true" />
 
   <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1"/>
   <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1"/>
@@ -23,7 +26,7 @@
   <plugin name="cordova-plugin-inappbrowser" source="npm" spec="~1.5.0"/>
   <plugin name="cordova-plugin-media" source="npm" spec="~2.2.0"/>
   <plugin name="cordova-plugin-network-information" source="npm" spec="~1.2.0"/>
-  
+  <plugin name="cordova-plugin-splashscreen"/>
   <plugin name="cordova-plugin-statusbar" source="npm" spec="~2.1.2"/>
   <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0"/>
   <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1"/>
