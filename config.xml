@@ -10,9 +10,10 @@
 <preference name="orientation" value="portrait" />
 <preference name="DisallowOverscroll" value="true" />
 
-<plugin name="cordova-plugin-splashscreen" source="npm" />
+  <plugin name="cordova-plugin-splashscreen" source="npm" />
   <plugin name="cordova-plugin-inappbrowser" source="npm" />
-
+  <plugin name="cordova-plugin-whitelist" source="npm" />
+  
   <icon src="icon.png"/>
   <splash src="splash.png"/>
   
