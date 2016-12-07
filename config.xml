@@ -12,7 +12,7 @@
 
 <plugin name="cordova-plugin-splashscreen" source="npm" />
   <plugin name="cordova-plugin-inappbrowser" source="npm" />
-    
+   <plugin name="phonegap-plugin-push" source="npm" spec="~1.8.4">
 
   <icon src="icon.png"/>
   <splash src="splash.png"/>
